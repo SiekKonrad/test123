@@ -1,0 +1,28 @@
+/* styl.css */
+
+/* Styl dla nagłówka o ID "imie" */
+#imie {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333; /* Kolor czcionki */
+}
+
+/* Styl dla nagłówka o ID "przedmiot" */
+#przedmiot {
+    font-size: 20px;
+    font-style: italic;
+    color: #666; /* Kolor czcionki */
+}
+
+/* Styl dla nagłówka o ID "rok" */
+#rok {
+    font-size: 20px;
+    color: #999; /* Kolor czcionki */
+}
+
+/* Styl dla nagłówka o ID "prowadzacy" */
+#prowadzacy {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333; /* Kolor czcionki */
+}
